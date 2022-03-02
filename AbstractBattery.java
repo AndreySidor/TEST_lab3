@@ -1,7 +1,7 @@
 package brokenrobotgame.model;
 
 import brokenrobotgame.model.navigation.CellPosition;
-
+//Git status
 abstract public class AbstractBattery
 {
     private boolean _isDestroy = false;     
