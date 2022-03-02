@@ -49,7 +49,7 @@ abstract public class AbstractBattery
 
         return _amountÎfÑharge;
     }
-
+    //git push origin main
     public void reduceCharge(int delta)
     {
         
