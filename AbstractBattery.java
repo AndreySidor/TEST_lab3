@@ -27,7 +27,7 @@ abstract public class AbstractBattery
         _chargeCapacity = capacity;
         _amountÎfÑharge = amount;
     }
-
+    //git commit -m "Net gitu in saturday"
     public int chargeCapacity()
     {
         
